@@ -266,144 +266,74 @@ Joystick5Button6  Button 6 on fifth joystick.
 Joystick5Button7  Button 7 on fifth joystick.
 Joystick5Button8  Button 8 on fifth joystick.
 Joystick5Button9  Button 9 on fifth joystick.
-Joystick5Button10
-Button 10 on fifth joystick.
-Joystick5Button11
-Button 11 on fifth joystick.
-Joystick5Button12
-Button 12 on fifth joystick.
-Joystick5Button13
-Button 13 on fifth joystick.
-Joystick5Button14
-Button 14 on fifth joystick.
-Joystick5Button15
-Button 15 on fifth joystick.
-Joystick5Button16
-Button 16 on fifth joystick.
-Joystick5Button17
-Button 17 on fifth joystick.
-Joystick5Button18
-Button 18 on fifth joystick.
-Joystick5Button19
-Button 19 on fifth joystick.
-Joystick6Button0
-Button 0 on sixth joystick.
-Joystick6Button1
-Button 1 on sixth joystick.
-Joystick6Button2
-Button 2 on sixth joystick.
-Joystick6Button3
-Button 3 on sixth joystick.
-Joystick6Button4
-Button 4 on sixth joystick.
-Joystick6Button5
-Button 5 on sixth joystick.
-Joystick6Button6
-Button 6 on sixth joystick.
-Joystick6Button7
-Button 7 on sixth joystick.
-Joystick6Button8
-Button 8 on sixth joystick.
-Joystick6Button9
-Button 9 on sixth joystick.
-Joystick6Button10
-Button 10 on sixth joystick.
-Joystick6Button11
-Button 11 on sixth joystick.
-Joystick6Button12
-Button 12 on sixth joystick.
-Joystick6Button13
-Button 13 on sixth joystick.
-Joystick6Button14
-Button 14 on sixth joystick.
-Joystick6Button15
-Button 15 on sixth joystick.
-Joystick6Button16
-Button 16 on sixth joystick.
-Joystick6Button17
-Button 17 on sixth joystick.
-Joystick6Button18
-Button 18 on sixth joystick.
-Joystick6Button19
-Button 19 on sixth joystick.
-Joystick7Button0
-Button 0 on seventh joystick.
-Joystick7Button1
-Button 1 on seventh joystick.
-Joystick7Button2
-Button 2 on seventh joystick.
-Joystick7Button3
-Button 3 on seventh joystick.
-Joystick7Button4
-Button 4 on seventh joystick.
-Joystick7Button5
-Button 5 on seventh joystick.
-Joystick7Button6
-Button 6 on seventh joystick.
-Joystick7Button7
-Button 7 on seventh joystick.
-Joystick7Button8
-Button 8 on seventh joystick.
-Joystick7Button9
-Button 9 on seventh joystick.
-Joystick7Button10
-Button 10 on seventh joystick.
-Joystick7Button11
-Button 11 on seventh joystick.
-Joystick7Button12
-Button 12 on seventh joystick.
-Joystick7Button13
-Button 13 on seventh joystick.
-Joystick7Button14
-Button 14 on seventh joystick.
-Joystick7Button15
-Button 15 on seventh joystick.
-Joystick7Button16
-Button 16 on seventh joystick.
-Joystick7Button17
-Button 17 on seventh joystick.
-Joystick7Button18
-Button 18 on seventh joystick.
-Joystick7Button19
-Button 19 on seventh joystick.
-Joystick8Button0
-Button 0 on eighth joystick.
-Joystick8Button1
-Button 1 on eighth joystick.
-Joystick8Button2
-Button 2 on eighth joystick.
-Joystick8Button3
-Button 3 on eighth joystick.
-Joystick8Button4
-Button 4 on eighth joystick.
-Joystick8Button5
-Button 5 on eighth joystick.
-Joystick8Button6
-Button 6 on eighth joystick.
-Joystick8Button7
-Button 7 on eighth joystick.
-Joystick8Button8
-Button 8 on eighth joystick.
-Joystick8Button9
-Button 9 on eighth joystick.
-Joystick8Button10
-Button 10 on eighth joystick.
-Joystick8Button11
-Button 11 on eighth joystick.
-Joystick8Button12
-Button 12 on eighth joystick.
-Joystick8Button13
-Button 13 on eighth joystick.
-Joystick8Button14
-Button 14 on eighth joystick.
-Joystick8Button15
-Button 15 on eighth joystick.
-Joystick8Button16
-Button 16 on eighth joystick.
-Joystick8Button17
-Button 17 on eighth joystick.
-Joystick8Button18
-Button 18 on eighth joystick.
-Joystick8Button19
-Button 19 on eighth joystick.
+Joystick5Button10 Button 10 on fifth joystick.
+Joystick5Button11 Button 11 on fifth joystick.
+Joystick5Button12 Button 12 on fifth joystick.
+Joystick5Button13 Button 13 on fifth joystick.
+Joystick5Button14 Button 14 on fifth joystick.
+Joystick5Button15 Button 15 on fifth joystick.
+Joystick5Button16 Button 16 on fifth joystick.
+Joystick5Button17 Button 17 on fifth joystick.
+Joystick5Button18 Button 18 on fifth joystick.
+Joystick5Button19 Button 19 on fifth joystick.
+Joystick6Button0  Button 0 on sixth joystick.
+Joystick6Button1  Button 1 on sixth joystick.
+Joystick6Button2  Button 2 on sixth joystick.
+Joystick6Button3  Button 3 on sixth joystick.
+Joystick6Button4  Button 4 on sixth joystick.
+Joystick6Button5  Button 5 on sixth joystick.
+Joystick6Button6  Button 6 on sixth joystick.
+Joystick6Button7  Button 7 on sixth joystick.
+Joystick6Button8  Button 8 on sixth joystick.
+Joystick6Button9  Button 9 on sixth joystick.
+Joystick6Button10 Button 10 on sixth joystick.
+Joystick6Button11 Button 11 on sixth joystick.
+Joystick6Button12 Button 12 on sixth joystick.
+Joystick6Button13 Button 13 on sixth joystick.
+Joystick6Button14 Button 14 on sixth joystick.
+Joystick6Button15 Button 15 on sixth joystick.
+Joystick6Button16 Button 16 on sixth joystick.
+Joystick6Button17 Button 17 on sixth joystick.
+Joystick6Button18 Button 18 on sixth joystick.
+Joystick6Button19 Button 19 on sixth joystick.
+Joystick7Button0  Button 0 on seventh joystick.
+Joystick7Button1  Button 1 on seventh joystick.
+Joystick7Button2  Button 2 on seventh joystick.
+Joystick7Button3  Button 3 on seventh joystick.
+Joystick7Button4  Button 4 on seventh joystick.
+Joystick7Button5  Button 5 on seventh joystick.
+Joystick7Button6  Button 6 on seventh joystick.
+Joystick7Button7  Button 7 on seventh joystick.
+Joystick7Button8  Button 8 on seventh joystick.
+Joystick7Button9  Button 9 on seventh joystick.
+Joystick7Button10 Button 10 on seventh joystick.
+Joystick7Button11 Button 11 on seventh joystick.
+Joystick7Button12 Button 12 on seventh joystick.
+Joystick7Button13 Button 13 on seventh joystick.
+Joystick7Button14 Button 14 on seventh joystick.
+Joystick7Button15 Button 15 on seventh joystick.
+Joystick7Button16 Button 16 on seventh joystick.
+Joystick7Button17 Button 17 on seventh joystick.
+Joystick7Button18 Button 18 on seventh joystick.
+Joystick7Button19 Button 19 on seventh joystick.
+Joystick8Button0  Button 0 on eighth joystick.
+Joystick8Button1  Button 1 on eighth joystick.
+Joystick8Button2  Button 2 on eighth joystick.
+Joystick8Button3  Button 3 on eighth joystick.
+Joystick8Button4  Button 4 on eighth joystick.
+Joystick8Button5  Button 5 on eighth joystick.
+Joystick8Button6  Button 6 on eighth joystick.
+Joystick8Button7  Button 7 on eighth joystick.
+Joystick8Button8  Button 8 on eighth joystick.
+Joystick8Button9  Button 9 on eighth joystick.
+Joystick8Button10 Button 10 on eighth joystick.
+Joystick8Button11 Button 11 on eighth joystick.
+Joystick8Button12 Button 12 on eighth joystick.
+Joystick8Button13 Button 13 on eighth joystick.
+Joystick8Button14 Button 14 on eighth joystick.
+Joystick8Button15 Button 15 on eighth joystick.
+Joystick8Button16 Button 16 on eighth joystick.
+Joystick8Button17 Button 17 on eighth joystick.
+Joystick8Button18 Button 18 on eighth joystick.
+Joystick8Button19 Button 19 on eighth joystick.
 
