@@ -1,25 +1,25 @@
 # KEYCODELAR
-None            Not assigned (never returned as the result of a keystroke).
-Backspace       The backspace key.
-Delete          The forward delete key.
-Tab             The tab key.
-Clear           The Clear key.
-Return          Return key.
-Pause           Pause on PC machines.
-Escape          Escape key.
-Space           Space key.
-Keypad0         Numeric keypad 0.
-Keypad1         Numeric keypad 1.
-Keypad2         Numeric keypad 2.
-Keypad3         Numeric keypad 3.
-Keypad4         Numeric keypad 4.
-Keypad5         Numeric keypad 5.
-Keypad6         Numeric keypad 6.
-Keypad7         Numeric keypad 7.
-Keypad8         Numeric keypad 8.
-Keypad9         Numeric keypad 9.
-KeypadPeriod    Numeric keypad '.'.
-KeypadDivide    Numeric keypad '/'.     
+  None            Not assigned (never returned as the result of a keystroke).
+  Backspace       The backspace key.
+  Delete          The forward delete key.
+  Tab             The tab key.
+  Clear           The Clear key.
+  Return          Return key.
+  Pause           Pause on PC machines.
+  Escape          Escape key.
+  Space           Space key.
+  Keypad0         Numeric keypad 0.
+  Keypad1         Numeric keypad 1.
+  Keypad2         Numeric keypad 2.
+  Keypad3         Numeric keypad 3.
+  Keypad4         Numeric keypad 4.
+  Keypad5         Numeric keypad 5.
+  Keypad6         Numeric keypad 6.
+  Keypad7         Numeric keypad 7.
+  Keypad8         Numeric keypad 8.
+  Keypad9         Numeric keypad 9.
+  KeypadPeriod    Numeric keypad '.'.
+  KeypadDivide    Numeric keypad '/'.     
 KeypadMultiply  Numeric keypad '*'.
 KeypadMinus     Numeric keypad '-'.
 KeypadPlus      Numeric keypad '+'.
