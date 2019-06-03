@@ -1,25 +1,25 @@
 # KEYCODELAR
-  None            Not assigned (never returned as the result of a keystroke).
-  Backspace       The backspace key.
-  Delete          The forward delete key.
-  Tab             The tab key.
-  Clear           The Clear key.
-  Return          Return key.
-  Pause           Pause on PC machines.
-  Escape          Escape key.
-  Space           Space key.
-  Keypad0         Numeric keypad 0.
-  Keypad1         Numeric keypad 1.
-  Keypad2         Numeric keypad 2.
-  Keypad3         Numeric keypad 3.
-  Keypad4         Numeric keypad 4.
-  Keypad5         Numeric keypad 5.
-  Keypad6         Numeric keypad 6.
-  Keypad7         Numeric keypad 7.
-  Keypad8         Numeric keypad 8.
-  Keypad9         Numeric keypad 9.
-  KeypadPeriod    Numeric keypad '.'.
-  KeypadDivide    Numeric keypad '/'.     
+None            Not assigned (never returned as the result of a keystroke).
+Backspace       The backspace key.
+Delete          The forward delete key.
+Tab             The tab key.
+Clear           The Clear key.
+Return          Return key.
+Pause           Pause on PC machines.
+Escape          Escape key.
+Space           Space key.
+Keypad0         Numeric keypad 0.
+Keypad1         Numeric keypad 1.
+Keypad2         Numeric keypad 2.
+Keypad3         Numeric keypad 3.
+Keypad4         Numeric keypad 4.
+Keypad5         Numeric keypad 5.
+Keypad6         Numeric keypad 6.
+Keypad7         Numeric keypad 7.
+Keypad8         Numeric keypad 8.
+Keypad9         Numeric keypad 9.
+KeypadPeriod    Numeric keypad '.'.
+KeypadDivide    Numeric keypad '/'.     
 KeypadMultiply  Numeric keypad '*'.
 KeypadMinus     Numeric keypad '-'.
 KeypadPlus      Numeric keypad '+'.
@@ -38,131 +38,69 @@ F1              F1 function key.
 F2              F2 function key.
 F3              F3 function key.
 F4              F4 function key.
-F5
-F5 function key.
-F6
-F6 function key.
-F7
-F7 function key.
-F8
-F8 function key.
-F9
-F9 function key.
-F10
-F10 function key.
-F11
-F11 function key.
-F12
-F12 function key.
-F13
-F13 function key.
-F14
-F14 function key.
-F15
-F15 function key.
+F5              F5 function key.
+F6              F6 function key.
+F7              F7 function key.
+F8              F8 function key.
+F9              F9 function key.
+F10             F10 function key.
+F11             F11 function key.
+F12             F12 function key.
+F13             F13 function key.
+F14             F14 function key.
+F15             F15 function key.
 Alpha0          The '0' key on the top of the alphanumeric keyboard.
-Alpha1
-The '1' key on the top of the alphanumeric keyboard.
-Alpha2
-The '2' key on the top of the alphanumeric keyboard.
-Alpha3
-The '3' key on the top of the alphanumeric keyboard.
-Alpha4
-The '4' key on the top of the alphanumeric keyboard.
-Alpha5
-The '5' key on the top of the alphanumeric keyboard.
-Alpha6
-The '6' key on the top of the alphanumeric keyboard.
-Alpha7
-The '7' key on the top of the alphanumeric keyboard.
-Alpha8
-The '8' key on the top of the alphanumeric keyboard.
-Alpha9
-The '9' key on the top of the alphanumeric keyboard.
-Exclaim
-Exclamation mark key '!'.
-DoubleQuote
-Double quote key '"'.
-Hash
-Hash key '#'.
-Dollar
-Dollar sign key '$'.
-Percent
-Percent '%' key.
-Ampersand
-Ampersand key '&'.
-Quote
-Quote key '.
-LeftParen
-Left Parenthesis key '('.
-RightParen
-Right Parenthesis key ')'.
-Asterisk
-Asterisk key '*'.
-Plus
-Plus key '+'.
-Comma
-Comma ',' key.
-Minus
-Minus '-' key.
-Period
-Period '.' key.
-Slash
-Slash '/' key.
-Colon
-Colon ':' key.
-Semicolon
-Semicolon ';' key.
-Less
-Less than '<' key.
-Equals
-Equals '=' key.
-Greater
-Greater than '>' key.
-Question
-Question mark '?' key.
-At
-At key '@'.
-LeftBracket
-Left square bracket key '['.
-Backslash
-Backslash key '\'.
-RightBracket
-Right square bracket key ']'.
-Caret
-Caret key '^'.
-Underscore
-Underscore '_' key.
-BackQuote
-Back quote key '`'.
-A
-'a' key.
-B
-'b' key.
-C
-'c' key.
-D
-'d' key.
-E
-'e' key.
-F
-'f' key.
-G
-'g' key.
-H
-'h' key.
-I
-'i' key.
-J
-'j' key.
-K
-'k' key.
-L
-'l' key.
-M
-'m' key.
-N
-'n' key.
+Alpha1          The '1' key on the top of the alphanumeric keyboard.
+Alpha2          The '2' key on the top of the alphanumeric keyboard.
+Alpha3          The '3' key on the top of the alphanumeric keyboard.
+Alpha4          The '4' key on the top of the alphanumeric keyboard.
+Alpha5          The '5' key on the top of the alphanumeric keyboard.
+Alpha6          The '6' key on the top of the alphanumeric keyboard.
+Alpha7          The '7' key on the top of the alphanumeric keyboard.
+Alpha8          The '8' key on the top of the alphanumeric keyboard.
+Alpha9          The '9' key on the top of the alphanumeric keyboard.
+Exclaim         Exclamation mark key '!'.
+DoubleQuote     Double quote key '"'.
+Hash            Hash key '#'.
+Dollar          Dollar sign key '$'.
+Percent         Percent '%' key.
+Ampersand       Ampersand key '&'.
+Quote           Quote key '.
+LeftParen       Left Parenthesis key '('.
+RightParen      Right Parenthesis key ')'.
+Asterisk        Asterisk key '*'.
+Plus            Plus key '+'.
+Comma           Comma ',' key.
+Minus           Minus '-' key.
+Period          Period '.' key.
+Slash           Slash '/' key.
+Colon           Colon ':' key.
+Semicolon       Semicolon ';' key.
+Less            Less than '<' key.
+Equals          Equals '=' key.
+Greater         Greater than '>' key.
+Question        Question mark '?' key.
+At              At key '@'.
+LeftBracket     Left square bracket key '['.
+Backslash       Backslash key '\'.
+RightBracket    Right square bracket key ']'.
+Caret           Caret key '^'.
+Underscore      Underscore '_' key.
+BackQuote       Back quote key '`'.
+A               'a' key.
+B               'b' key.
+C               'c' key.
+D               'd' key.
+E               'e' key.
+F               'f' key.
+G               'g' key.
+H               'h' key.
+I               'i' key.
+J               'j' key.
+K               'k' key.
+L               'l' key.
+M               'm' key.
+N               'n' key.
 O
 'o' key.
 P
